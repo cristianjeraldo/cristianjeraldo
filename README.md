@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristianjeraldo
-- 👀 I’m interested in machine learning applications on mining industry
+- 👀 I’m interested in machine learning applications on the mining industry
 - 🌱 I’m currently learning feature engineering and feuture selection
-- 💞️ I’m looking to collaborate on machine learning applications on mining industry
+- 💞️ I’m looking to collaborate on machine learning applications on the mining industry
 - 📫 How to reach me www.asgeominspa.com
 
 <!---
